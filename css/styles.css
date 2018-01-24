@@ -21,7 +21,7 @@ table {
  }
 
 .table-header {
-	background: #b22222;
+	background: rgba(178, 34, 34, 0.9);
 	color: #fff;
 }
 

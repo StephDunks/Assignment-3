@@ -1,0 +1,63 @@
+body {
+	font-family: sans-serif;
+}
+
+.container {
+	margin: 0 auto;	
+}
+
+.table {
+	margin-top: 200px;
+}
+
+h2 {
+	color:#b22222; 
+}
+
+table {
+	border-collapse: collapse;
+    width: 100%;
+    vertical-align: center;
+ }
+
+.table-header {
+	background: #b22222;
+	color: #fff;
+}
+
+td {
+	vertical-align: middle;
+}
+
+th {
+    height: 50px;
+}
+
+tr {
+	height: 50px;
+}
+
+.time-header {
+	font-weight: 400;
+}
+
+.temperature-header, .humidity-header {
+	font-weight: 400;
+	text-align: right;
+}
+
+.time {
+	background: #ddd;
+	border: .5px solid #ddd;
+
+}
+
+.temperature, .humidity {
+	text-align: right;
+	font-weight: bold;
+	width: 35%;
+}
+
+.table-shadow {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
